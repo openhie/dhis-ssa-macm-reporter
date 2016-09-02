@@ -1,0 +1,22 @@
+{
+  "name": "dhis-ssa-macm-reporter",
+  "version": "1.0.0",
+  "description": "nginx ----- This assumes nginx (or other transparent proxy) has been installed to redirect https://localhost/ILR requests to a CSD InfoManager",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openhie/dhis-ssa-macm-reporter.git"
+  },
+  "author": "Carl Leitner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/openhie/dhis-ssa-macm-reporter/issues"
+  },
+  "homepage": "https://github.com/openhie/dhis-ssa-macm-reporter#readme"
+}
